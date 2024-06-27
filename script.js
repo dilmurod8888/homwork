@@ -51,3 +51,4 @@ function dilmurodName() {
   console.log(hammaIsimlar);
   dilmurodName();
 }
+
